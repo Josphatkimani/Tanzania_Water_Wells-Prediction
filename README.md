@@ -41,22 +41,14 @@ We evaluated several machine learning algorithms:
 
 While none of the models achieved the desired 75% accuracy, they provided valuable insights into predicting well conditions. We used confusion matrices and cross-validation to assess performance and identified class imbalance as a limitation affecting model performance.
 
-## Repository Structure
-
-- `data/`: Directory for storing datasets.
-- `models/`: Directory for storing trained models.
-- `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
-- `src/`: Source code for data preprocessing, model training, and evaluation.
-- `README.md`: Project overview and instructions for running code.
-- `requirements.txt`: List of dependencies.
 
 ## Usage
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/well-status-prediction.git
-cd well-status-prediction
+git clone https://github.com/your_username/Tanzania_Water_Wells-prediction.git
+cd Tanzania_Water_Wells-prediction.git
 ```
 
 2. Install dependencies:
