@@ -57,9 +57,7 @@ cd Tanzania_Water_Wells-prediction.git
 pip install -r requirements.txt
 ```
 
-3. Run the notebooks in the `notebooks/` directory to explore data, train models, and evaluate performance.
-
-4. Use the source code in the `src/` directory for data preprocessing, model training, and evaluation in your own scripts.
+3. Run the notebooks in the `wells.ipynb` to explore data, train models, and evaluate performance.
 
 ## Why Contribute?
 
